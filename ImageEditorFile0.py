@@ -1,5 +1,6 @@
 from PIL import Image, ImageEnhance, ImageFilter
 import os
+#you have to install PIL for that and either anaconda or pip. 
 
 path = './imgs'
 pathOut = './editedImgs'
